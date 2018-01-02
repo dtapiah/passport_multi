@@ -14,6 +14,7 @@ class MultiauthServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
+            __DIR__.'/views' => base_path('resources/views'),
             __DIR__.'/middleware' => base_path('app/Http/Middleware'),
         ]);
     }
