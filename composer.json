@@ -1,0 +1,12 @@
+{
+    "name": "jumpitt/passport_multiauth",
+    "description": "Passport with multiauth",
+    "authors": [
+        {
+            "name": "Danilo",
+            "email": "danilo.tapiah@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
