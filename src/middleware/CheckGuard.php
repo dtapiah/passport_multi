@@ -1,6 +1,6 @@
 <?php
 
-namespace Jumpitt\Passport_multiauth;
+namespace Jumpitt\Multiauth;
 
 use Auth;
 use Closure;
