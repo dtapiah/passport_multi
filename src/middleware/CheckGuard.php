@@ -1,6 +1,6 @@
 <?php
 
-namespace Jumpitt\Multiauth;
+namespace Jumpitt\Multi;
 
 use Auth;
 use Closure;

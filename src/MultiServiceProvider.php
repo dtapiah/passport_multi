@@ -1,10 +1,10 @@
 <?php
 
-namespace Jumpitt\Multiauth;
+namespace Jumpitt\Multi;
 
 use Illuminate\Support\ServiceProvider;
 
-class MultiauthServiceProvider extends ServiceProvider
+class MultiServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
